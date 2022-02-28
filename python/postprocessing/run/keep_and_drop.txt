@@ -1,0 +1,22 @@
+# this isp a comment
+drop * # start with all
+keep Electron*
+keep Muon*
+keep Jet*
+keep Flag_*
+keep HLT_PFMET*
+keep PV*
+keep nMuon
+keep nElectron
+keep nJet
+keep nBJet*
+keep nCJet*
+keep BJet*
+keep CJet*
+keep MET_*
+keep GenMET_*
+keep GenJet_*
+keep Gen*
+keep gen*
+keep event
+keep btagWeight*

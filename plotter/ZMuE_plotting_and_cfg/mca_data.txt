@@ -1,0 +1,12 @@
+#Instructions: 
+## format each line following the example: Bkg/Sgn:legend/name:x-sec:path:color:total number of generated evts (for nano can be omitted)
+### samples with same name are addedin a single histogram
+### putting:x-sec = 0 uses MC actual events
+### xsec = xsec(prod)*bf*e(filter) 
+### three categories: Sgn, Bkg, Data (data knulifies xsec)
+
+Data:SingleMuon:0:/eos/cms/store/cmst3/group/bpark/gkaratha/Nano_Run2018B_2022Jan17/SingleMuon/crab_Nano_Run2018B_2022Jan17/220116_234052/0000/:1
+Data:SingleMuon:0:/eos/cms/store/cmst3/group/bpark/gkaratha/Nano_Run2018C_2022Jan17/SingleMuon/crab_Nano_Run2018C_2022Jan17/220116_234059/0000/:1
+Data:SingleMuon:0:/eos/cms/store/cmst3/group/bpark/gkaratha/Nano_Run2018D_2022Jan17/SingleMuon/crab_Nano_Run2018D_2022Jan17/220116_234105/0000/:1
+
+
